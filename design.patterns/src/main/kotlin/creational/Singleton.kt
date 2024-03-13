@@ -1,4 +1,4 @@
-package src.main.kotlin.creational.singleton
+package creational
 
 import kotlin.concurrent.Volatile
 

@@ -1,6 +1,6 @@
-package creational.singleton
+package creational
 
-import src.main.kotlin.creational.singleton.Singleton
+import creational.Singleton
 import java.util.concurrent.Executors
 import java.util.concurrent.TimeUnit
 import kotlin.test.Test
