@@ -1,5 +1,6 @@
-package creational
+package design.patterns.creational
 
+import design.patterns.creational.CocktailBuilder
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

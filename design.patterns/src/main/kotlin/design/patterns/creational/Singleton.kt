@@ -1,4 +1,4 @@
-package creational
+package design.patterns.creational
 
 import kotlin.concurrent.Volatile
 

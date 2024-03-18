@@ -1,4 +1,4 @@
-package creational
+package design.patterns.creational
 
 class Toy(
     val name: String,

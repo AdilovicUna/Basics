@@ -8,3 +8,4 @@ plugins {
 }
 rootProject.name = "Basics"
 include("design.patterns")
+include("data.structures")

@@ -1,5 +1,7 @@
-package creational
+package design.patterns.creational
 
+import design.patterns.creational.BenderFactory
+import design.patterns.creational.Element
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 

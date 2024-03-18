@@ -1,5 +1,8 @@
-package structural
+package design.patterns.structural
 
+import design.patterns.structural.BasicSalad
+import design.patterns.structural.Carrot
+import design.patterns.structural.Peper
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.Assertions.assertTrue
 import java.io.ByteArrayOutputStream

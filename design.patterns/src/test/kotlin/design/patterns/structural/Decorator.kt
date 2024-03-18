@@ -1,5 +1,7 @@
-package structural
+package design.patterns.structural
 
+import design.patterns.structural.Boss
+import design.patterns.structural.Enemy
 import org.junit.jupiter.api.AfterEach
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test

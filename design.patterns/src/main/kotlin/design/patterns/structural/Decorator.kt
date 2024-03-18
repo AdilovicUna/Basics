@@ -1,4 +1,4 @@
-package structural
+package design.patterns.structural
 
 interface Attack {
     fun executeAttack(strength: Int) = println("Attacking with strength $strength")

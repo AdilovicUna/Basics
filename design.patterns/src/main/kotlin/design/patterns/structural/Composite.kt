@@ -1,4 +1,4 @@
-package structural
+package design.patterns.structural
 
 interface Box { fun openBox() }
 

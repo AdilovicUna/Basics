@@ -1,5 +1,9 @@
-package structural
+package design.patterns.structural
 
+import design.patterns.structural.AmericanItem
+import design.patterns.structural.CzechItemAdapter
+import design.patterns.structural.ForeignItemInterface
+import design.patterns.structural.GermanItem
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertThrows
 import org.junit.jupiter.api.Test

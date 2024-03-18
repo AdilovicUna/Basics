@@ -1,4 +1,4 @@
-package creational
+package design.patterns.creational
 
 interface Attack {
     fun attack(strength: Int)

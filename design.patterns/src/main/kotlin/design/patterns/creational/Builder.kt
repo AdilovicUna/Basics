@@ -1,4 +1,4 @@
-package creational
+package design.patterns.creational
 
 class Cocktail(
     val alcohol: String,
